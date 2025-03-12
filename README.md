@@ -1,16 +1,16 @@
-## Hi there 👋
+## Xin Chào Các Tình Yêu! 👋  
 
-<!--
-**minhvu2005/minhvu2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Vu, a passionate developer currently exploring Java Spring Boot and Hibernate.  
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- 🔭 I'm working on a **bookstore management system** using **Java Spring Boot**.  
+- 🌱 Currently learning **Dependency Injection** and **Java Hibernate**.  
+- 💡 Interested in **backend development**, **database management**, and **RESTful APIs**.  
+- 🎯 Looking to enhance my skills and gain experience in **Java Spring applications**.  
+- 🏸 Outside of coding, I enjoy playing **badminton** and **walking in parks**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me  
+- 💬 Feel free to ask me about **Java, Spring Boot, Hibernate, and VueJS**.  
+- 📩 Reach me via **GitHub discussions** or **email**.  
+
+⚡ **Fun fact**: I can spend hours debugging but still enjoy the challenge! 😆  
