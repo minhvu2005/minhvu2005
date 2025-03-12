@@ -1,6 +1,8 @@
 ## Xin Chào Các Tình Yêu! 👋  
 
 Welcome to my GitHub profile! I'm Vu, a passionate developer currently exploring Java Spring Boot and Hibernate.  
+![Uploading backgruopgit.png…]()
+
 
 ### 🚀 About Me  
 - 🔭 I'm working on a **bookstore management system** using **Java Spring Boot**.  
