@@ -1,7 +1,8 @@
 ## Xin Chào Các Tình Yêu! 👋  
+![My Background](https://raw.githubusercontent.com/your-username/your-repo/main/backgruopgit.png)
 
 Welcome to my GitHub profile! I'm Vu, a passionate developer currently exploring Java Spring Boot and Hibernate.  
-![Uploading backgruopgit.png…]()
+
 
 
 ### 🚀 About Me  
