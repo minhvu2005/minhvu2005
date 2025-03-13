@@ -1,5 +1,5 @@
 ## Xin Chào Các Tình Yêu! 👋  
-![Banner]([https://raw.githubusercontent.com/username/username/main/banner.png](https://github.com/minhvu2005/minhvu2005/blob/profile/panner.png?raw=true))
+![Banner](https://github.com/minhvu2005/minhvu2005/blob/profile/panner.png?raw=true)
 
 
 Welcome to my GitHub profile! I'm Vu, a passionate developer currently exploring Java Spring Boot and Hibernate.  
