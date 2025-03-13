@@ -1,5 +1,6 @@
 ## Xin Chào Các Tình Yêu! 👋  
-![My Background](https://raw.githubusercontent.com/your-username/your-repo/main/backgruopgit.png)
+![Banner](https://raw.githubusercontent.com/username/username/main/banner.png)
+
 
 Welcome to my GitHub profile! I'm Vu, a passionate developer currently exploring Java Spring Boot and Hibernate.  
 
